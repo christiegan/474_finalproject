@@ -1,0 +1,44 @@
+
+# The Monty Hall Problem
+
+The game show Let's Make a Deal came about in 1963 in the US and has been fairly successful.
+Selected audience members make deals with the host where the member is offered something of value
+and given a choice of whether to keep or exchange it for a different, possibly more valuable item.
+One of these deals became a famous brain teaser, later known as the Monty Hall problem, named 
+after the original host Monty Hall. This probability puzzle's answer seems counterintuitive but
+the math checks out. 
+
+Let's take a look at this problem.
+
+
+#### The Scenario
+
+* Embed image of the doors
+* Explanation of Scenario
+
+#### Sample Data
+
+The dataset was generated manually from a simulator: http://petersonbiology.com/shiny/montyHallSimulator/ 
+[data name:'myData' source:'myData.csv' /]
+[Table data:myData /]
+
+#### Visualization of the Data
+
+* bar chart of rounds won based on if contestant switches doors or not
+* some other visual
+* maybe another one I dunno
+
+#### Why is this good to know?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip 
+ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+mollit anim id est laborum
+
+
+
+
+
+
+

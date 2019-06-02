@@ -1,0 +1,14 @@
+
+/* Put your custom styles here */
+
+svg {
+  max-width: 700px;
+}
+
+body {
+  font: italic small-caps bold 30px/40px Georgia, sans-serif;
+}
+
+p {
+  font: 20px Georgia, sans-serif;
+}
